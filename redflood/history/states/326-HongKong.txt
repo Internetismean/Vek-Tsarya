@@ -6,7 +6,7 @@ state=
 	state_category = city
 	history=
 	{
-		owner = GDP
+		owner = ENG
                 add_core_of = GDP
 		victory_points = {
 			10062 3
